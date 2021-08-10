@@ -1,6 +1,5 @@
-nlist = list(map(int, input().split()))
+print(r"C\name\name")
 
-if nlist.count(1) > nlist.count(2):
-    print(1)
-else:
-    print(2)
+print("""line1
+line2
+line3""")
